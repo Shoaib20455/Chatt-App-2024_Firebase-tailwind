@@ -24,6 +24,6 @@ dist-ssr
 *.sw?
 
 #Environment variables
-.env
+process.env
 env
 .node_modules
